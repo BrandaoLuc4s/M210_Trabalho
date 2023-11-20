@@ -1,4 +1,3 @@
-
 #lib
 import numpy as np
 from utils import *
@@ -147,8 +146,9 @@ if calcular == "s":
         for coluna in range(nVar,matriz_coluna-1):
             soma += nDelta[indice_delta]*matriz[linha][coluna]
             indice_delta += 1
-        print(f'Novo lucro ótimo [Z] = {soma}')
-        print(f'O lucro subiu {soma-lucro_primario}')
+        #print(f'Novo lucro ótimo [Z] = {soma}')
+        #print(f'O lucro subiu {soma-lucro_primario}')
+        print(f'Novo lucro ótimo [Z] = {soma-lucro_primario}')
     else:
         print(f'Não é viável alterar as disponibilidades das restrições!')
 else:
