@@ -1,6 +1,5 @@
 <h1 align='center'>Trabalho de Otimização utilizando o método Simplex no Python 🐍</h1>
-
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+<div align="center">
 
 </div>
 
