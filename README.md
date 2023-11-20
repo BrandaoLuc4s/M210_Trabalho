@@ -120,9 +120,9 @@ Preço sombra da restrição M = 0.5
 Preço sombra da restrição N = 0.0
 Preço sombra da restrição O = 14.0
 ```
-> Se o Delta for calculado, informa o resultado obtido e se é válido; 🧮
+> Se o Delta for calculado, informa o resultado obtido e se é válido; ✔
 
-> Finalmente, gera o resultado do novo Lucro ótimizado. 💰 💸
+> Finalmente, gera o resultado do novo Lucro ótimizado. 💰
 ```
 ============= Calculando Delta ===============
 Delta linha 1...
@@ -131,7 +131,7 @@ Delta linha 2...
 Resultado = 56.0 --> Valido!
 Delta linha 3...
 Resultado = 100.0 --> Valido!
-Daltas validados! Calculando novo lucro ótimo...
+Deltas validados! Calculando novo lucro ótimo...
 Novo lucro ótimo = 892.0
 ```
 ## Lib utilizada no projeto 🕋 🗳️
