@@ -3,27 +3,27 @@
 
 </div>
 
-# 📜 Passo a passo
+# 📝 Passo a passo
 
 <h3> VS Code</h3>
-🚨 Para instalar a biblioteca necessária, rode o seguinte comando:
+🚨 Para instalar a biblioteca do Numpy será necessária rodar o comando:
 
 ```
 pip install numpy
 ```
-🚨 Rodar a aplicação na IDE utilizada com o run nativo ou com o comando abaixo:
+🚨 Para rodar a aplicação na IDE pelo terminal:
 
 ```
 python Simplex.py
 ```
 
 #
-## A aplicação deve receber como entrada: 📥🚀
+## A aplicação recebe como entrada: 
 
 #
 > Número de variáveis de decisão. *Quantidade de parâmetros analisados*
 
-> Número de restrições. *Quantas formulas serão analisadas para se chegar ao valor ótimo*
+> Número de restrições. *Quantas restrições serão analisadas para se chegar ao valor ótimo*
 ```
 ============= Coletando informações de entrada (variáveis e restrições) ===============
 Entre com o numero de variaveis: 2
@@ -56,7 +56,7 @@ Entre com o valor do lado direito: 250
 ```
 O programa atribui automaticamente letras as restrições, no exemplo M, N e O.
 #
-> Deve-se verificar se o cálculo do Delta será feito e aceito (s/n) na entrada;
+> Opção para verificar se o cálculo do Delta será feito e aceito (s/n);
 ```
 ============= Verificando Delta para restrições ===============
 Deseja calcular o delta? (s/n): s
@@ -69,7 +69,7 @@ Entre com o delta de N: 0
 Entre com o delta de O: 3
 ```
 #
-# A aplicação calculará e informará a saída:📤 🎯
+# A aplicação calculará e informará a saída: 📲
 
 
 > A função de Maximização (Z): Z = Ax1 + Bx2, por exemplo;
