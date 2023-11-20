@@ -6,12 +6,12 @@
 # 📝 Passo a passo
 
 <h3> VS Code</h3>
-🚨 Para instalar a biblioteca do Numpy será necessária rodar o comando:
+💻 Para instalar a biblioteca do Numpy será necessária rodar o comando:
 
 ```
 pip install numpy
 ```
-🚨 Para rodar a aplicação na IDE pelo terminal:
+💻 Para rodar a aplicação na IDE pelo terminal:
 
 ```
 python Simplex.py
