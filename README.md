@@ -137,3 +137,9 @@ Novo lucro ótimo = 892.0
 ## Lib utilizada no projeto 🕋 🗳️
 
 - numpy
+
+## Integrantes 
+
+- Lucas Brandão Costa
+- Lucas Graciano
+- Igor Azevedo
